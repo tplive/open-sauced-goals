@@ -25,27 +25,27 @@
   },
   {
     "full_name": "fastlane/fastlane",
-    "stargazers_count": 37083,
-    "open_issues_count": 438,
-    "forks_count": 5525
+    "stargazers_count": 37119,
+    "open_issues_count": 443,
+    "forks_count": 5528
   },
   {
     "full_name": "todogroup/governance",
     "stargazers_count": 82,
-    "open_issues_count": 19,
+    "open_issues_count": 21,
     "forks_count": 110
   },
   {
     "full_name": "gayanvoice/top-github-users",
-    "stargazers_count": 2394,
+    "stargazers_count": 2412,
     "open_issues_count": 96,
-    "forks_count": 477
+    "forks_count": 480
   },
   {
     "full_name": "hashicorp/terraform-provider-azurerm",
-    "stargazers_count": 4001,
-    "open_issues_count": 2692,
-    "forks_count": 4073
+    "stargazers_count": 4006,
+    "open_issues_count": 2665,
+    "forks_count": 4084
   },
   {
     "full_name": "Tobiaswk/carwingsflutter",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "factoriotools/factorio-docker",
-    "stargazers_count": 744,
+    "stargazers_count": 745,
     "open_issues_count": 38,
     "forks_count": 193
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "sonic-pi-net/sonic-pi",
-    "stargazers_count": 9999,
+    "stargazers_count": 10002,
     "open_issues_count": 189,
-    "forks_count": 898
+    "forks_count": 899
   },
   {
     "full_name": "andrewning/sortphotos",
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "geerlingguy/ansible-vagrant-examples",
-    "stargazers_count": 2029,
+    "stargazers_count": 2028,
     "open_issues_count": 2,
-    "forks_count": 698
+    "forks_count": 697
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 254917,
-    "open_issues_count": 63,
-    "forks_count": 25797
+    "stargazers_count": 255316,
+    "open_issues_count": 65,
+    "forks_count": 25813
   },
   {
     "full_name": "mozilla/send",
-    "stargazers_count": 13211,
+    "stargazers_count": 13214,
     "open_issues_count": 156,
-    "forks_count": 1557
+    "forks_count": 1558
   },
   {
     "full_name": "cgeo/cgeo",
-    "stargazers_count": 1269,
-    "open_issues_count": 711,
-    "forks_count": 558
+    "stargazers_count": 1268,
+    "open_issues_count": 713,
+    "forks_count": 559
   },
   {
     "full_name": "Nimrodda/WizarDroid",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "PoshCode/PowerShellPracticeAndStyle",
-    "stargazers_count": 1957,
+    "stargazers_count": 1959,
     "open_issues_count": 51,
     "forks_count": 274
   },
@@ -123,6 +123,6 @@
     "full_name": "PlagueHO/LabBuilder",
     "stargazers_count": 223,
     "open_issues_count": 66,
-    "forks_count": 40
+    "forks_count": 39
   }
 ]
