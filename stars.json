@@ -14,7 +14,7 @@
   {
     "full_name": "boyum/green-municipalities",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -26,7 +26,7 @@
   {
     "full_name": "fastlane/fastlane",
     "stargazers_count": 38287,
-    "open_issues_count": 578,
+    "open_issues_count": 582,
     "forks_count": 5761
   },
   {
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "gayanvoice/top-github-users",
-    "stargazers_count": 3053,
-    "open_issues_count": 127,
-    "forks_count": 525
+    "stargazers_count": 3073,
+    "open_issues_count": 128,
+    "forks_count": 524
   },
   {
     "full_name": "hashicorp/terraform-provider-azurerm",
-    "stargazers_count": 4274,
-    "open_issues_count": 2736,
-    "forks_count": 4340
+    "stargazers_count": 4277,
+    "open_issues_count": 2711,
+    "forks_count": 4338
   },
   {
     "full_name": "Tobiaswk/carwingsflutter",
@@ -57,7 +57,7 @@
     "full_name": "factoriotools/factorio-docker",
     "stargazers_count": 811,
     "open_issues_count": 40,
-    "forks_count": 211
+    "forks_count": 210
   },
   {
     "full_name": "covidgreen/covid-green-infra",
@@ -73,8 +73,8 @@
   },
   {
     "full_name": "sonic-pi-net/sonic-pi",
-    "stargazers_count": 10325,
-    "open_issues_count": 225,
+    "stargazers_count": 10329,
+    "open_issues_count": 226,
     "forks_count": 914
   },
   {
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 283533,
+    "stargazers_count": 284025,
     "open_issues_count": 57,
-    "forks_count": 26932
+    "forks_count": 26957
   },
   {
     "full_name": "mozilla/send",
-    "stargazers_count": 13220,
+    "stargazers_count": 13223,
     "open_issues_count": 156,
-    "forks_count": 1609
+    "forks_count": 1607
   },
   {
     "full_name": "cgeo/cgeo",
     "stargazers_count": 1312,
-    "open_issues_count": 718,
+    "open_issues_count": 726,
     "forks_count": 606
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "PoshCode/PowerShellPracticeAndStyle",
-    "stargazers_count": 2073,
+    "stargazers_count": 2075,
     "open_issues_count": 35,
     "forks_count": 283
   },
