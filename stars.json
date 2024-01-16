@@ -14,20 +14,20 @@
   {
     "full_name": "boyum/green-municipalities",
     "stargazers_count": 3,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "cgeo/WhereYouGo",
     "stargazers_count": 82,
-    "open_issues_count": 76,
+    "open_issues_count": 78,
     "forks_count": 36
   },
   {
     "full_name": "fastlane/fastlane",
-    "stargazers_count": 38299,
-    "open_issues_count": 587,
-    "forks_count": 5766
+    "stargazers_count": 38310,
+    "open_issues_count": 580,
+    "forks_count": 5769
   },
   {
     "full_name": "todogroup/governance",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "gayanvoice/top-github-users",
-    "stargazers_count": 3111,
-    "open_issues_count": 128,
-    "forks_count": 531
+    "stargazers_count": 3130,
+    "open_issues_count": 132,
+    "forks_count": 534
   },
   {
     "full_name": "hashicorp/terraform-provider-azurerm",
-    "stargazers_count": 4287,
-    "open_issues_count": 2701,
-    "forks_count": 4343
+    "stargazers_count": 4289,
+    "open_issues_count": 2716,
+    "forks_count": 4346
   },
   {
     "full_name": "Tobiaswk/carwingsflutter",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "factoriotools/factorio-docker",
-    "stargazers_count": 813,
+    "stargazers_count": 819,
     "open_issues_count": 41,
-    "forks_count": 211
+    "forks_count": 212
   },
   {
     "full_name": "covidgreen/covid-green-infra",
@@ -73,38 +73,38 @@
   },
   {
     "full_name": "sonic-pi-net/sonic-pi",
-    "stargazers_count": 10338,
+    "stargazers_count": 10342,
     "open_issues_count": 227,
-    "forks_count": 915
+    "forks_count": 917
   },
   {
     "full_name": "andrewning/sortphotos",
-    "stargazers_count": 986,
+    "stargazers_count": 987,
     "open_issues_count": 59,
     "forks_count": 307
   },
   {
     "full_name": "geerlingguy/ansible-vagrant-examples",
-    "stargazers_count": 2044,
+    "stargazers_count": 2046,
     "open_issues_count": 1,
     "forks_count": 703
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 284974,
-    "open_issues_count": 57,
-    "forks_count": 27000
+    "stargazers_count": 285449,
+    "open_issues_count": 59,
+    "forks_count": 27020
   },
   {
     "full_name": "mozilla/send",
-    "stargazers_count": 13225,
+    "stargazers_count": 13222,
     "open_issues_count": 156,
-    "forks_count": 1608
+    "forks_count": 1611
   },
   {
     "full_name": "cgeo/cgeo",
     "stargazers_count": 1311,
-    "open_issues_count": 725,
+    "open_issues_count": 728,
     "forks_count": 604
   },
   {
